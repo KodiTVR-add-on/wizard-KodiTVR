@@ -675,7 +675,7 @@ def firstRun():
 	class MyWindow(xbmcgui.WindowXMLDialog):
 		def __init__(self, *args, **kwargs):
 			self.title = THEME3 % ADDONTITLE
-			self.msg   = "Atualmente voce nao possui nenhuma Build Instalada usando o %s.\n\nPara instalar, proceda da seguinte maneira: selecione 'IGNORAR', va em ADDONS-->PROGRAM ADD-ONS e execute o assistente  WIZARD KodiTVR, e siga as instrucoes para instalar uma versao da %s\n\nObrigado por utilizar o %s." % (ADDONTITLE,BUILDERNAME, ADDONTITLE)
+			self.msg   = "Atualmente voce nao possui nenhuma Build Instalada usando o %s.\n\nPara instalar, proceda da seguinte maneira: selecione 'IGNORAR', va em ADDONS-->PROGRAM ADD-ONS e execute o assistente KodiTVR Wizard, e siga as instrucoes para instalar uma versao da %s\n\nObrigado por utilizar o %s." % (ADDONTITLE,BUILDERNAME, ADDONTITLE)
 			self.msg   = THEME2 % self.msg
 
 		def onInit(self):
