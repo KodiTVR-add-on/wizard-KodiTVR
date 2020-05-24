@@ -1,5 +1,5 @@
 ################################################################################
-#      Copyright (C) 2020 KodiTVR <>                          #
+#      Copyright (C) 2020 <KodiTVR>                                            #
 #                                                                              #
 #  This Program is free software; you can redistribute it and/or modify        #
 #  it under the terms of the GNU General Public License as published by        #
@@ -15,7 +15,7 @@
 #  along with XBMC; see the file COPYING.  If not, write to                    #
 #  the Free Software Foundation, 675 Mass Ave, Cambridge, MA 02139, USA.       #
 #  http://www.gnu.org/copyleft/gpl.html                                        #
-#################################################################################
+################################################################################
 
 
 #        5: "240p h263 flv container",

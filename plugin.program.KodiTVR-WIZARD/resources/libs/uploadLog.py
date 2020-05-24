@@ -1,5 +1,5 @@
 ################################################################################
-#      Copyright (C) 2020 KodiTVR <>                          #
+#      Copyright (C) 2020 <KodiTVR>                                            #
 #                                                                              #
 #  This Program is free software; you can redistribute it and/or modify        #
 #  it under the terms of the GNU General Public License as published by        #
@@ -18,7 +18,7 @@
 ################################################################################
 # Kodi Logfile Uploader                                                        #
 #   Original Code by Team Kodi                                                 #
-#     By Flecha Negra                                                               #
+#     By KodiTVR                                                               #
 #                                                                              #
 #   Modified to Support Kodi Forks                                             #
 #   Added Email Logfile Url Support                                            #
