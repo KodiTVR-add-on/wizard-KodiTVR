@@ -14,11 +14,11 @@ BUILDERNAME    = 'WIZARD KodiTVR '
 EXCLUDES       = [ADDON_ID, 'My_Builds', 'backupdir']
 BUILDFILE      = 'https://archive.org/download/KodiTVR-WIZARD/KodiTVR-WIZARD.zip'
 UPDATECHECK    = 0
-APKFILE        = 'https://pastebin.com/raw/PAJzhs5N'
+APKFILE        = 'https://pastebin.com/raw/PAJzhs5N/apk.txt?download=true'
 YOUTUBETITLE   = 'http://'
-YOUTUBEFILE    = 'https://pastebin.com/raw/VG8t6hub'
-ADDONFILE      = 'https://pastebin.com/raw/jQfGhscr'
-ADVANCEDFILE   = 'https://pastebin.com/raw/k5uEjBza'
+YOUTUBEFILE    = 'https://pastebin.com/raw/VG8t6hub/youtubetheone.txt?download=true'
+ADDONFILE      = 'https://pastebin.com/raw/jQfGhscr/addons.txt?download=true'
+ADVANCEDFILE   = 'https://pastebin.com/raw/k5uEjBza/krypton%20advanced.txt?download=true'
 ROMPACK        = ''
 EMUAPKS        = ''
 ADDONPACK      = 'http://'
@@ -121,7 +121,7 @@ HIDECONTACT    = 'No'
 CONTACT        = 'Obrigado por usar o WIZARD KodiTVR.'
 #Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON    = os.path.join(ART, 'icon.png')
-CONTACTFANART  = 'https://i.imgur.com/RuSSUhU.jpg
+CONTACTFANART  = 'https://i.imgur.com/RuSSUhU.jpg/fanart.jpg?download=true'
 
 #########################################################
 ### AUTO UPDATE #########################################
@@ -151,7 +151,7 @@ REPOZIPURL     =  'http://'
 # Enable Notification screen Yes or No
 ENABLE         = 'Yes'
 # Url to notification file
-NOTIFICATION   = 'https://pastebin.com/raw/q6XsXfx8'
+NOTIFICATION   = 'https://pastebin.com/raw/q6XsXfx8/notify.txt?download=true'
 # Use either 'Text' or 'Image'
 HEADERTYPE     = 'Text'
 # Font size of header
@@ -162,5 +162,5 @@ HEADERIMAGE    = 'https://i.imgur.com/3spstUk.png'
 # Font for Notification Window
 FONTSETTINGS   = 'Font12'
 # Background for Notification Window
-BACKGROUND     = 'https://i.imgur.com/RuSSUhU.jpg'
+BACKGROUND     = 'https://i.imgur.com/RuSSUhU.jpg/fanart.jpg?download=true'
 ############################WIZARD KodiTVR#############################
