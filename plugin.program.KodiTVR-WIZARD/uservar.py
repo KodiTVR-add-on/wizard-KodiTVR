@@ -129,7 +129,7 @@ CONTACTFANART  = 'https://i.imgur.com/RuSSUhU.jpg/fanart.jpg?download=true'
 # Enable Auto Update 'Yes' or 'No'
 AUTOUPDATE     = 'Yes'
 # Url to wizard version
-WIZARDFILE     = 'https://archive.org/download/KodiTVR-WIZARD/KodiTVR-WIZARD.zip'
+WIZARDFILE     = 'https://archive.org/download/KodiTVR-WIZARD/KodiTVR-WIZARD.zip?download=true'
 #########################################################
 
 #########################################################
@@ -158,7 +158,7 @@ HEADERTYPE     = 'Text'
 FONTHEADER     = 'Font25'
 HEADERMESSAGE  = 'WIZARD KodiTVR'
 # url to image if using Image 424x180
-HEADERIMAGE    = 'https://i.imgur.com/3spstUk.png'
+HEADERIMAGE    = 'https://i.imgur.com/3spstUk.png?download=true'
 # Font for Notification Window
 FONTSETTINGS   = 'Font12'
 # Background for Notification Window
