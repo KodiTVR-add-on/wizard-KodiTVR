@@ -1,5 +1,5 @@
 ################################################################################
-#      Copyright (C) 2020 KodiTVR                                              #
+#      Copyright (C) 2020, KodiTVR                                             #
 #                                                                              #
 #  This Program is free software; you can redistribute it and/or modify        #
 #  it under the terms of the GNU General Public License as published by        #
@@ -18,7 +18,7 @@
 ################################################################################
 # Credits 
 # ----------
-# KodiTVR
+#  KodiTVR
 # WhiteCream thread for clicking yes on dialog for unknown sources
 
 import xbmc, xbmcvfs, xbmcaddon, xbmcgui,re, os, glob, thread
