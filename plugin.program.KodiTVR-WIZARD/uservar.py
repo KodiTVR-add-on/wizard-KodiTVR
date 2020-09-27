@@ -12,7 +12,7 @@ ADDONTITLE     = '[B][COLOR yellow]KodiTVR-WIZARD[/COLOR][/B]'
 BUILDERNAME    = 'WIZARD KodiTVR '
 #########################Make sure to change the repo to yours!!!!
 EXCLUDES       = [ADDON_ID, 'My_Builds', 'backupdir']
-BUILDFILE      = 'https://archive.org/download/KodiTVR-WIZARD/KodiTVR-WIZARD.zip?download=true'
+BUILDFILE      = 'https://archive.org/download/plugin.program.KodiTVR-WIZARD-1.0/plugin.program.KodiTVR-WIZARD-1.0.zip?download=true'
 UPDATECHECK    = 0
 APKFILE        = 'https://pastebin.com/raw/PAJzhs5N/apk.txt?download=true'
 YOUTUBETITLE   = 'http://'
@@ -129,7 +129,7 @@ CONTACTFANART  = 'https://i.imgur.com/RuSSUhU.jpg/fanart.jpg?download=true'
 # Enable Auto Update 'Yes' or 'No'
 AUTOUPDATE     = 'Yes'
 # Url to wizard version
-WIZARDFILE     = 'https://archive.org/download/KodiTVR-WIZARD/KodiTVR-WIZARD.zip?download=true'
+WIZARDFILE     = 'https://archive.org/download/plugin.program.KodiTVR-WIZARD-1.0/plugin.program.KodiTVR-WIZARD-1.0.zip?download=true'
 #########################################################
 
 #########################################################
